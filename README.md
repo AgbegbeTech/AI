@@ -1,6 +1,6 @@
 ### WEEKLY UPDATES on MATRIX SMARTCONTRACT PROJECT
 
-11th June - 15th June, 2018
+## 11th June - 15th June, 2018
 
 ##### Semantic Computing
 
@@ -29,7 +29,7 @@
 - Completed a demo version of "Patched Contract" on VM side against BEC/SMT overflow vulnerbility.
 
 
-18th June - 22th June, 2018
+## 18th June - 22th June, 2018
 
 ##### Semantic Computing
 
@@ -51,3 +51,22 @@
 - Determined the implementation plan of patch permission authentication mechanism, focusing on the authentication scheme based on account address;
 
 - Conducted research on contract upgrade, existing technology roadmap of patches, as well as coding design patterns;
+
+- Built up a private chain for testing purpose, and completed the application of contract patches on the private chain
+
+
+## 25th June - 29th June, 2018
+
+##### Semantic Computing
+
+- Completed the automatic framework of Semantic Computing, including characteristics extraction, model training and clustering;
+
+- Complated the crawling and preparation of datasets;
+
+- Optimized the training process to the GAlib-based semantic computing model, and completed the fitting training of contract code dataset for the  model parameters;
+
+- Completed the code similarity calculation algorithm based on Bipartie Matching algorithm;
+
+- Completed the premilinary real contract data semantics clustering with not so ideal results; result analysis and extended experiments are in progress;
+
+- Discussed together on the plan of framework optimization 
