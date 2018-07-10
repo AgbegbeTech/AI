@@ -78,3 +78,16 @@
 - Implement refactoring and optimizations on VM codes deployed and upgraded on private chain;
 - Read through go-ethereum API documetns and principles, as well as web3 related documents;
 - Get down with technical proposal design on upgradable contract and VM
+
+
+## 3rd July - 7th July, 2018
+
+##### Semantic Computing
+
+- Completed the semantics analysis on the current token based or walled based contract, and summarized several typical application scenarios;
+
+- Completed design on automatically generated interaction scenarios by smart contracts;
+
+- Completed the framework implementation of cluster based smartcontract semantics computing tools;
+
+- Achieved the optimized extraction of semantic information, and completed the automatic training of weighting parameter based on GAlib;
