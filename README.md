@@ -91,3 +91,37 @@
 - Completed the framework implementation of cluster based smartcontract semantics computing tools;
 
 - Achieved the optimized extraction of semantic information, and completed the automatic training of weighting parameter based on GAlib;
+
+##### Upgradable and Safe VM
+
+- Discuss and research on the design scheme of Fault Tolerance system, analysing the practicability from the perspectives of technology and application of this proposal
+
+- Go on with the development of "Patched Contract" supporting VM, and completed the optimized implementation of the PC address redirecting;
+
+- Regarding the security vulnerability prediction engine related work, we focused on the taint analysis technology, and analyzed the feasibility of this technology at the virtual machine level;
+
+- Completed the merge of open-source taint analysis and patching;
+
+- Performed testing and debugging on security vulnerability prediction functions in private test-net.
+
+
+## 9rd July - 13rd July, 2018
+
+##### Semantic Computing
+
+
+- Completed the design refination of the interactive scenarios generated automatically by smartcontracts, and finalized the prototype in form of web service, through different discussions;
+
+- Frontend & background design and development in progress as regards smartcontract auto-generated prototype application scenarios 
+
+- Further research on existing contracts, and refine the feature classification and induction of application scenarios
+
+
+- Completed the semantic extraction optimization plan of automatic contract semantics clustering tools, inlucding the optimization of original semantic vectors, computing models, etc;
+
+- Completed the extention of dataset for evaluation and preparation of dataset; fine-tuned the parameters of automatic semantic clustering model;
+
+- Evaluating the effects of clustering based on full datasets.
+
+
+##### Upgradable and Safe VM
