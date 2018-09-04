@@ -125,3 +125,60 @@
 
 
 ##### Upgradable and Safe VM
+
+- Discussed on SmartContract VMs, and proposed three core features and competencie: fault-tolerant virtual machine, vulnerability inference engine, secure contract upgrade；
+
+- Finished research on the design proposals of error-recovery, self-healing, immune software system, and came out with formal documents;
+
+- Completed the structural design and module separation of smartcontract fault-tolerant VM, after several times of disscussion
+
+- Prototype development in progress for fault-tolerant features of  smartcontracts
+
+- Go on with the development and improvement of upgrades of safe contracts
+
+
+## 16th July - 20th July, 2018
+
+##### Semantic Computing
+
+- Completed the detailed design of One-click DApp auto-generation functions;
+
+- Completed the high-level analysis of functions and application scenarios as regards the Token contracts;
+
+- As regards the Token contract, we achieved a configurable command line version of automatic contract generation, and it was successfully built;
+
+- Interactive system for automatic contract generation is now in design
+
+- Carried out the feature analysis on the typical contract scenarios, with Wallet contracts, CrowdSale contracts as the starting point;
+
+- Completed the premilinary result collection of extended evaluation datasets, and is doing the result analysis now.
+
+##### Upgradable and Safe VM
+
+- Discuss on the research outcomes related with fault-tolerant system, safe VM and hot fixing;
+
+- Complete the detailed design on fault-tolerance VMs against overflow vulnerabilities;
+
+- Complete the code merging of safe contract upgrade funtionality;
+
+- Refine the classifications as well as definitions of vulnerabilities supported by fault-tolerance VMs.
+
+
+## 13rd August - 17th August, 2018
+
+##### Automatic Generation of Contract
+
+- Discuss on the current outcome and progress of automatic generation;
+
+- Completed the frontend interactive pages of prototype sites and prepared demo cases;
+
+- Confirmed the project goal and plan (period: now - the end of this year), as well as DAppro's product program;
+
+- Continued with the dev and debug work of contract template library; 
+
+
+
+##### Upgradable and Safe VM
+
+- Optimized the fault-tolerance prototype development against Reentrancy attacks;
+- Confirmed the project goal and plan (period: now - the end of this year), as well as MATRIX-VM product program.
